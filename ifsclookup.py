@@ -30,7 +30,7 @@ def display_credit():
         "",
         "──────────────────────────────────────────────────",
         f"{Color.CYAN}Created by: @a_lonely_ooo{Color.RESET}",
-        f"{Color.MAGENTA}Github: github.com/a_lonely_ooo{Color.RESET}",
+        f"{Color.MAGENTA}Github: github.com/a-lonely-ooo{Color.RESET}",
         "──────────────────────────────────────────────────",
         ""
     ]
@@ -118,7 +118,7 @@ def fade_in_ascii_art():
         "░█─░█ █── ▀▀█▀▀ ─▀─ █▀▄▀█ █▀▀█ ▀▀█▀▀ █▀▀ 　 ▀█▀ █▀▀▄ █▀▀ ▀▀█▀▀ █▀▀█ 　 █── █▀▀█ █▀▀█ █─█ █──█ █▀▀█",
         "░█─░█ █── ──█── ▀█▀ █─▀─█ █▄▄█ ──█── █▀▀ 　 ░█─ █──█ ▀▀█ ──█── █▄▄█ 　 █── █──█ █──█ █▀▄ █──█ █──█",
         "─▀▄▄▀ ▀▀▀ ──▀── ▀▀▀ ▀───▀ ▀──▀ ──▀── ▀▀▀ 　 ▄█▄ ▀──▀ ▀▀▀ ──▀── ▀──▀ 　 ▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀─▀ ─▀▀▀ █▀▀▀",
-        "                          Github: @a_lonely_ooo",
+        "                          Github: @a-lonely-ooo",
         "                          insta: @a_lonely_ooo",
         "                          telegram: @a_lonely_ooo",
         "                          twitter: @a_lonely_ooo",
